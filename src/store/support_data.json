@@ -1,0 +1,53 @@
+{
+    "headersThongTinXuong": [
+      {
+        "text": "STT",
+        "align": "center",
+        "sortable": false,
+        "value": "stt",
+        "display": ""
+      },
+      {
+        "text": "Mã",
+        "align": "center",
+        "sortable": false,
+        "value": "maXuong",
+        "display": ""
+      },
+      {
+        "text": "Tên xưởng",
+        "align": "center",
+        "sortable": false,
+        "value": "tenXuong",
+        "display": ""
+      },
+      {
+        "text": "Địa chỉ",
+        "align": "center",
+        "sortable": false,
+        "value": "diaChi",
+        "display": ""
+      },
+      {
+        "text": "Email",
+        "align": "center",
+        "sortable": false,
+        "value": "lastUpdate",
+        "display": ""
+      },
+      {
+        "text": "Trạng thái",
+        "align": "center",
+        "sortable": false,
+        "value": "state",
+        "display": ""
+      },
+      {
+        "text": "Thao tác",
+        "align": "center",
+        "sortable": false,
+        "value": "action",
+        "display": ""
+      }
+    ]
+}
